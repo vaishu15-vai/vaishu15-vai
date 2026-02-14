@@ -30,7 +30,7 @@
 <h2 align="left">Experience </h2>
 <p>
      - Virtual Intern, IBM (2025)<br>
-     - Completed a virtual internship Artifical and machine learning<br>
+     - Completed a virtual internship in Artifical intelligence and machine learning<br>
      - Gained hands-on experience in machine- learning</p>
 <h2 align="left">Projects</h2>
 <p>
