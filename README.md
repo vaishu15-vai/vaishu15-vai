@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="left">Hey 👋 What's up?</h1>
 <!--
 **vaishu15-vai/vaishu15-vai** is a ✨ _special_ ✨ repository.
@@ -34,11 +34,11 @@
      - Gained hands-on experience in machine- learning</p>
 <h2 align="left">Projects</h2>
 <p>
-1. Library Management System: [Briefly describe the project and your role]
-2. Ground Water Level Analysis using DWLR Data: [Briefly describe the project and your role]
-3. Plant Disease Prediction: [Briefly describe the project and your role]
-4. House Price Prediction: [Briefly describe the project and your role]
-5. Eco-Friendly NFT Marketplace: [Briefly describe the project and your role]</p>
+1. Library Management System<br>
+2. Ground Water Level Analysis using DWLR Data<br>
+3. Plant Disease Prediction<br>
+4. House Price Prediction<br>
+5. Eco-Friendly NFT Marketplace</p>
 
 
 <div align="left">
