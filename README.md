@@ -29,7 +29,7 @@
 
 <h2 align="left">Experience </h2>
 <p>
-     - Virtual Intern, IBM (2022)<br>
+     - Virtual Intern, IBM (2025)<br>
      - Completed a virtual internship in [specific area, e.g., data science, web development]<br>
      - Gained hands-on experience in machine- learning</p>
 <h2 align="left">Projects</h2>
