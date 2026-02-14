@@ -13,24 +13,25 @@
 
 ###
 <h2 align="left">Contact Information</h2>
-<p>- Email: [choudharyvaishnavi312@gmail.com]
-- Phone: [8076475827]
-- LinkedIn: [https://www.linkedin.com/in/vaishnavi-choudhary-a5337b343?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+<p>- Email: [choudharyvaishnavi312@gmail.com]</p>
+<p>- Phone: [8076475827]</p>
+<p>- LinkedIn: [https://www.linkedin.com/in/vaishnavi-choudhary-a5337b343?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 </p>
 
 
 ###
 <h2 align="left">Education</h2>
-- B.Tech (Computer Science and Engineering), Dronacharya Group of Institutes (2024-2027)
-- Diploma (Computer Science), Baba Sheb Bhem Rao Ambedkar (2020-2023)
+<p>- B.Tech (Computer Science and Engineering), Dronacharya Group of Institutes (2024-2027)</p>
+<p>- Diploma (Computer Science), Baba Sheb Bhem Rao Ambedkar (2020-2023)</p>
 <!-- <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p> -->
 
 ###
 
 <h2 align="left">Experience </h2>
-<p>  - Virtual Intern, IBM (2022)
-     - Completed a virtual internship in [specific area, e.g., data science, web development]
-     - Gained hands-on experience in [specific skills or technologies]</p>
+<p>
+     - Virtual Intern, IBM (2022)<br>
+     - Completed a virtual internship in [specific area, e.g., data science, web development]<br>
+     - Gained hands-on experience in machine- learning</p>
 <h2 align="left">Projects</h2>
 <p>
 1. Library Management System: [Briefly describe the project and your role]
@@ -38,7 +39,7 @@
 3. Plant Disease Prediction: [Briefly describe the project and your role]
 4. House Price Prediction: [Briefly describe the project and your role]
 5. Eco-Friendly NFT Marketplace: [Briefly describe the project and your role]</p>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
